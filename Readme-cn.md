@@ -4,7 +4,7 @@
 
 先河网盘本来是部署在先河私有云应用市场下的一个扩展应用，现在作为一个网站开源，所以鉴权只做了简单的设计——只需要输入用户名。
 
-演示网址 http://arsdrive.ipfs-storage.tech/
+演示网址 http://45.76.105.233/
 
 ### 用法
 
@@ -12,13 +12,13 @@
 
 Name:      test.jpg
 
-Hash:       QmNv5MKP7iExYiHBYZaCkbCB3So4BHQjjQGroC2N1aBCMy
+Hash:       QmQNXmFms6MAVv253A5zVW2hCNjc7Uoq6s7Yz4HRwNny1P
 
 添加一个文件夹
 
 Name:      AAA
 
-Hash:        QmdZ3QZbiZcvAp9ZAon3YVb38EZJWS1351mJs6curruzKr
+Hash:        QmdXGMXJrCgPF8qaAuKZpRQrhnUop1eXnDt7n9Z8QiGH5R
 
 上传、删除、打开等其他操作不详细介绍
 
